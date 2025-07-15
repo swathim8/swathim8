@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swathi M
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in reading Harry Potter Books
+- 🌱 I’m currently learning Selenium Java Automation
 - 📫 swathisupriya565@gmail.com
 
 <!---
